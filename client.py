@@ -2,7 +2,7 @@ import httpx
 import json
 import uuid
 
-URL = "http://127.0.0.1:8000/mcp"
+URL = "https://calculatormcpserver.onrender.com/mcp"
 
 
 #starts communication with server 
